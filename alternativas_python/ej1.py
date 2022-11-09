@@ -5,7 +5,7 @@ Autor: Pablo Mérida Velasco
 Fecha: 14/10/2022
 """
 
-n1 = int(input('Dime un número: '))
+n1 = int(input('Dime tdghun número: '))
 n2 = int(input('Dime otro número: '))
 
 if n1 > n2:
